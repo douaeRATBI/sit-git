@@ -1,0 +1,9 @@
+body{
+    background: cadetblue;
+}
+h1{
+    color:blueviolet;
+    font-size: 60 px;
+    margin : 40px;
+    padding: 200px;
+}
